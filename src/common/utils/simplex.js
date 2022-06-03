@@ -85,8 +85,6 @@
      ],
      algorithms: [],
      solutions: [],
-     variables: [],
-     restrictions: [],
  }
  
  /* 
